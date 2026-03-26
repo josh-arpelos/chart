@@ -8,3 +8,16 @@
 
 # Source xlsx (CSV equivalents tracked instead)
 *.xlsx
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Processed outputs
+*.h5ad
+data/processed/
+data/annotations/
+
+# uv lock file is tracked, but ignore local cache
+.uv/

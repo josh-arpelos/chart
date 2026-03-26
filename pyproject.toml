@@ -1,0 +1,16 @@
+[project]
+name = "chart"
+version = "0.1.0"
+description = "Flow cytometry tiling experiment analysis"
+requires-python = ">=3.11"
+dependencies = [
+    "pyInfinityFlow",
+    "scvi-tools",
+    "scanpy",
+    "harmonypy",
+    "fcsparser",
+    "anndata",
+    "pandas",
+    "numpy",
+    "matplotlib",
+]
