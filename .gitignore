@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# Large binary data
+*.fcs
+*.wsp
+*.prism
+
+# Source xlsx (CSV equivalents tracked instead)
+*.xlsx

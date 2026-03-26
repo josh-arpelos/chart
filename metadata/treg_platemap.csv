@@ -1,0 +1,17 @@
+well_id,row,column,target,is_isotype_control
+A1,A,1,IFN-y/IL-17A ICS,False
+A2,A,2,IFN-y/IL-17A ICS,False
+A3,A,3,IFN-y/IL-17A ICS,False
+A4,A,4,IFN-y/IL-17A ICS,False
+B1,B,1,IFN-y/IL-17A ICS,False
+B2,B,2,IFN-y/IL-17A ICS,False
+B3,B,3,IFN-y/IL-17A ICS,False
+B4,B,4,IFN-y/IL-17A ICS,False
+C1,C,1,Treg FOXP3 ICS,False
+C2,C,2,Treg FOXP3 ICS,False
+C3,C,3,Treg FOXP3 ICS,False
+C4,C,4,Treg FOXP3 ICS,False
+D1,D,1,Treg FOXP3 ICS,False
+D2,D,2,Treg FOXP3 ICS,False
+D3,D,3,Treg FOXP3 ICS,False
+D4,D,4,Treg FOXP3 ICS,False

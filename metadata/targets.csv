@@ -1,0 +1,65 @@
+target,target_classification,is_isotype_control
+Armenian Hamster Isotype CTRL,Control,True
+BTLA,Computational Nominated Target,False
+CCR6,Trafficking,False
+CCR9,Trafficking,False
+CD162,Computational Nominated Target,False
+CD200,Computational Nominated Target,False
+CD200R,Computational Nominated Target,False
+CD22,Computational Nominated Target,False
+CD25,Reference/Competitor,False
+CD27,Computational Nominated Target,False
+CD28,Reference/Competitor,False
+CD294,Computational Nominated Target,False
+CD30L,Computational Nominated Target,False
+CD38,Computational Nominated Target,False
+CD39,Computational Nominated Target,False
+CD40L,Computational Nominated Target,False
+CD44,Computational Nominated Target,False
+CD45RO,Computational Nominated Target,False
+CD45Ra,Reference/Competitor,False
+CD53,Computational Nominated Target,False
+CD62L,Computational Nominated Target,False
+CD69,Reference/Competitor,False
+CD7,Computational Nominated Target,False
+CD73,Computational Nominated Target,False
+CD83,Computational Nominated Target,False
+CD9,Computational Nominated Target,False
+CD96,Computational Nominated Target,False
+CRTAM,Computational Nominated Target,False
+CTLA4,Reference/Competitor,False
+CXCR3,Trafficking,False
+CXCR4,Trafficking,False
+CXCR5,Trafficking,False
+CXCR6,Trafficking,False
+FASL,Computational Nominated Target,False
+GPR183,Trafficking,False
+ICOS,Computational Nominated Target,False
+IL10RA,Cytokine,False
+IL10RB,Cytokine,False
+IL12RB2,Cytokine,False
+IL15RA,Cytokine,False
+IL18R1,Cytokine,False
+IL1R3,Cytokine,False
+IL21R,Cytokine,False
+IL2RB,Cytokine,False
+IL2RG,Cytokine,False
+IL7R,Cytokine,False
+ITGAE,Computational Nominated Target,False
+ITGB1,Computational Nominated Target,False
+KLRG1,Computational Nominated Target,False
+LAG3,Reference/Competitor,False
+Mouse IgG1 isotype CTRL,Control,True
+Mouse IgG2a isotype CTRL,Control,True
+Mouse IgG2b Isotype CTRL,Control,True
+PD1,Reference/Competitor,False
+RANKL,Computational Nominated Target,False
+Rat IgG2a isotype CTRL,Control,True
+Rat IgG2b Isotype CTRL,Control,True
+SLAMF1,Computational Nominated Target,False
+SLAMF6,Computational Nominated Target,False
+ST2,Computational Nominated Target,False
+TIGIT,Computational Nominated Target,False
+TIM3,Computational Nominated Target,False
+TNFRSF4,Computational Nominated Target,False
+TNFSF4,Computational Nominated Target,False

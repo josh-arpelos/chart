@@ -1,0 +1,275 @@
+filename,donor_id,well_id,file_type,relative_path,target
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A1.fcs,D004,A1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A1.fcs,CXCR4
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A2.fcs,D004,A2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A2.fcs,CCR9
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A3.fcs,D004,A3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A3.fcs,TIGIT
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A4.fcs,D004,A4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A4.fcs,CD73
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A5.fcs,D004,A5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A5.fcs,KLRG1
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A6.fcs,D004,A6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A6.fcs,CD25
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A7.fcs,D004,A7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A7.fcs,CD96
+20240807 Activated PBMC Tiling D004_Experiment_Samples_A8.fcs,D004,A8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_A8.fcs,CD40L
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B1.fcs,D004,B1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B1.fcs,CD200
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B2.fcs,D004,B2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B2.fcs,ITGB1
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B3.fcs,D004,B3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B3.fcs,GPR183
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B4.fcs,D004,B4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B4.fcs,CD45RO
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B5.fcs,D004,B5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B5.fcs,LAG3
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B6.fcs,D004,B6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B6.fcs,SLAMF6
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B7.fcs,D004,B7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B7.fcs,CXCR6
+20240807 Activated PBMC Tiling D004_Experiment_Samples_B8.fcs,D004,B8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_B8.fcs,Mouse IgG1 isotype CTRL
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C1.fcs,D004,C1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C1.fcs,IL12RB2
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C2.fcs,D004,C2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C2.fcs,TNFRSF4
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C3.fcs,D004,C3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C3.fcs,CD7
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C4.fcs,D004,C4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C4.fcs,BTLA
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C5.fcs,D004,C5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C5.fcs,CD30L
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C6.fcs,D004,C6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C6.fcs,IL18R1
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C7.fcs,D004,C7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C7.fcs,CD294
+20240807 Activated PBMC Tiling D004_Experiment_Samples_C8.fcs,D004,C8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_C8.fcs,Rat IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D1.fcs,D004,D1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D1.fcs,TNFSF4
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D2.fcs,D004,D2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D2.fcs,IL2RG
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D3.fcs,D004,D3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D3.fcs,IL21R
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D4.fcs,D004,D4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D4.fcs,CD53
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D5.fcs,D004,D5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D5.fcs,CTLA4
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D6.fcs,D004,D6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D6.fcs,CRTAM
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D7.fcs,D004,D7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D7.fcs,FASL
+20240807 Activated PBMC Tiling D004_Experiment_Samples_D8.fcs,D004,D8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_D8.fcs,Mouse IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E1.fcs,D004,E1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E1.fcs,CD44
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E2.fcs,D004,E2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E2.fcs,IL10RB
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E3.fcs,D004,E3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E3.fcs,IL7R
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E4.fcs,D004,E4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E4.fcs,CD22
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E5.fcs,D004,E5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E5.fcs,IL10RA
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E6.fcs,D004,E6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E6.fcs,PD1
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E7.fcs,D004,E7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E7.fcs,CD9
+20240807 Activated PBMC Tiling D004_Experiment_Samples_E8.fcs,D004,E8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_E8.fcs,Mouse IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F1.fcs,D004,F1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F1.fcs,CD38
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F2.fcs,D004,F2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F2.fcs,CCR6
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F3.fcs,D004,F3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F3.fcs,TIM3
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F4.fcs,D004,F4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F4.fcs,CD39
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F5.fcs,D004,F5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F5.fcs,RANKL
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F6.fcs,D004,F6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F6.fcs,CD162
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F7.fcs,D004,F7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F7.fcs,SLAMF1
+20240807 Activated PBMC Tiling D004_Experiment_Samples_F8.fcs,D004,F8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_F8.fcs,IL1R3
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G1.fcs,D004,G1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G1.fcs,CD62L
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G2.fcs,D004,G2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G2.fcs,CXCR5
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G3.fcs,D004,G3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G3.fcs,CXCR3
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G4.fcs,D004,G4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G4.fcs,ST2
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G5.fcs,D004,G5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G5.fcs,CD27
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G6.fcs,D004,G6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G6.fcs,CD200R
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G7.fcs,D004,G7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G7.fcs,CD83
+20240807 Activated PBMC Tiling D004_Experiment_Samples_G8.fcs,D004,G8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_G8.fcs,Rat IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H1.fcs,D004,H1,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H1.fcs,CD28
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H2.fcs,D004,H2,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H2.fcs,IL2RB
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H3.fcs,D004,H3,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H3.fcs,CD69
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H4.fcs,D004,H4,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H4.fcs,ICOS
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H5.fcs,D004,H5,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H5.fcs,ITGAE
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H6.fcs,D004,H6,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H6.fcs,CD45Ra
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H7.fcs,D004,H7,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H7.fcs,IL15RA
+20240807 Activated PBMC Tiling D004_Experiment_Samples_H8.fcs,D004,H8,sample,data/raw/D004/20240807 Activated PBMC Tiling D004_Experiment_Samples_H8.fcs,Armenian Hamster Isotype CTRL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A1.fcs,D005,A1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A1.fcs,CXCR4
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A2.fcs,D005,A2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A2.fcs,CCR9
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A3.fcs,D005,A3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A3.fcs,TIGIT
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A4.fcs,D005,A4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A4.fcs,CD73
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A5.fcs,D005,A5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A5.fcs,KLRG1
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A6.fcs,D005,A6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A6.fcs,CD25
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A7.fcs,D005,A7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A7.fcs,CD96
+20240807 Activated PBMC Tiling D005_Experiment_Samples_A8.fcs,D005,A8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_A8.fcs,CD40L
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B1.fcs,D005,B1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B1.fcs,CD200
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B2.fcs,D005,B2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B2.fcs,ITGB1
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B3.fcs,D005,B3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B3.fcs,GPR183
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B4.fcs,D005,B4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B4.fcs,CD45RO
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B5.fcs,D005,B5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B5.fcs,LAG3
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B6.fcs,D005,B6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B6.fcs,SLAMF6
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B7.fcs,D005,B7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B7.fcs,CXCR6
+20240807 Activated PBMC Tiling D005_Experiment_Samples_B8.fcs,D005,B8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_B8.fcs,Mouse IgG1 isotype CTRL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C1.fcs,D005,C1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C1.fcs,IL12RB2
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C2.fcs,D005,C2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C2.fcs,TNFRSF4
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C3.fcs,D005,C3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C3.fcs,CD7
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C4.fcs,D005,C4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C4.fcs,BTLA
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C5.fcs,D005,C5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C5.fcs,CD30L
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C6.fcs,D005,C6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C6.fcs,IL18R1
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C7.fcs,D005,C7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C7.fcs,CD294
+20240807 Activated PBMC Tiling D005_Experiment_Samples_C8.fcs,D005,C8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_C8.fcs,Rat IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D1.fcs,D005,D1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D1.fcs,TNFSF4
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D2.fcs,D005,D2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D2.fcs,IL2RG
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D3.fcs,D005,D3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D3.fcs,IL21R
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D4.fcs,D005,D4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D4.fcs,CD53
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D5.fcs,D005,D5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D5.fcs,CTLA4
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D6.fcs,D005,D6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D6.fcs,CRTAM
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D7.fcs,D005,D7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D7.fcs,FASL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_D8.fcs,D005,D8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_D8.fcs,Mouse IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E1.fcs,D005,E1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E1.fcs,CD44
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E2.fcs,D005,E2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E2.fcs,IL10RB
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E3.fcs,D005,E3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E3.fcs,IL7R
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E4.fcs,D005,E4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E4.fcs,CD22
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E5.fcs,D005,E5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E5.fcs,IL10RA
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E6.fcs,D005,E6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E6.fcs,PD1
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E7.fcs,D005,E7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E7.fcs,CD9
+20240807 Activated PBMC Tiling D005_Experiment_Samples_E8.fcs,D005,E8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_E8.fcs,Mouse IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F1.fcs,D005,F1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F1.fcs,CD38
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F2.fcs,D005,F2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F2.fcs,CCR6
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F3.fcs,D005,F3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F3.fcs,TIM3
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F4.fcs,D005,F4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F4.fcs,CD39
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F5.fcs,D005,F5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F5.fcs,RANKL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F6.fcs,D005,F6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F6.fcs,CD162
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F7.fcs,D005,F7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F7.fcs,SLAMF1
+20240807 Activated PBMC Tiling D005_Experiment_Samples_F8.fcs,D005,F8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_F8.fcs,IL1R3
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G1.fcs,D005,G1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G1.fcs,CD62L
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G2.fcs,D005,G2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G2.fcs,CXCR5
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G3.fcs,D005,G3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G3.fcs,CXCR3
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G4.fcs,D005,G4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G4.fcs,ST2
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G5.fcs,D005,G5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G5.fcs,CD27
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G6.fcs,D005,G6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G6.fcs,CD200R
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G7.fcs,D005,G7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G7.fcs,CD83
+20240807 Activated PBMC Tiling D005_Experiment_Samples_G8.fcs,D005,G8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_G8.fcs,Rat IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H1.fcs,D005,H1,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H1.fcs,CD28
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H2.fcs,D005,H2,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H2.fcs,IL2RB
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H3.fcs,D005,H3,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H3.fcs,CD69
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H4.fcs,D005,H4,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H4.fcs,ICOS
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H5.fcs,D005,H5,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H5.fcs,ITGAE
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H6.fcs,D005,H6,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H6.fcs,CD45Ra
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H7.fcs,D005,H7,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H7.fcs,IL15RA
+20240807 Activated PBMC Tiling D005_Experiment_Samples_H8.fcs,D005,H8,sample,data/raw/D005/20240807 Activated PBMC Tiling D005_Experiment_Samples_H8.fcs,Armenian Hamster Isotype CTRL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A1.fcs,D006,A1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A1.fcs,CXCR4
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A2.fcs,D006,A2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A2.fcs,CCR9
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A3.fcs,D006,A3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A3.fcs,TIGIT
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A4.fcs,D006,A4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A4.fcs,CD73
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A5.fcs,D006,A5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A5.fcs,KLRG1
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A6.fcs,D006,A6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A6.fcs,CD25
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A7.fcs,D006,A7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A7.fcs,CD96
+20240807 Activated PBMC Tiling D006_Experiment_Samples_A8.fcs,D006,A8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_A8.fcs,CD40L
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B1.fcs,D006,B1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B1.fcs,CD200
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B2.fcs,D006,B2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B2.fcs,ITGB1
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B3.fcs,D006,B3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B3.fcs,GPR183
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B4.fcs,D006,B4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B4.fcs,CD45RO
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B5.fcs,D006,B5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B5.fcs,LAG3
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B6.fcs,D006,B6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B6.fcs,SLAMF6
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B7.fcs,D006,B7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B7.fcs,CXCR6
+20240807 Activated PBMC Tiling D006_Experiment_Samples_B8.fcs,D006,B8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_B8.fcs,Mouse IgG1 isotype CTRL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C1.fcs,D006,C1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C1.fcs,IL12RB2
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C2.fcs,D006,C2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C2.fcs,TNFRSF4
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C3.fcs,D006,C3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C3.fcs,CD7
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C4.fcs,D006,C4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C4.fcs,BTLA
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C5.fcs,D006,C5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C5.fcs,CD30L
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C6.fcs,D006,C6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C6.fcs,IL18R1
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C7.fcs,D006,C7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C7.fcs,CD294
+20240807 Activated PBMC Tiling D006_Experiment_Samples_C8.fcs,D006,C8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_C8.fcs,Rat IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D1.fcs,D006,D1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D1.fcs,TNFSF4
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D2.fcs,D006,D2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D2.fcs,IL2RG
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D3.fcs,D006,D3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D3.fcs,IL21R
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D4.fcs,D006,D4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D4.fcs,CD53
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D5.fcs,D006,D5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D5.fcs,CTLA4
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D6.fcs,D006,D6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D6.fcs,CRTAM
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D7.fcs,D006,D7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D7.fcs,FASL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_D8.fcs,D006,D8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_D8.fcs,Mouse IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E1.fcs,D006,E1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E1.fcs,CD44
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E2.fcs,D006,E2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E2.fcs,IL10RB
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E3.fcs,D006,E3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E3.fcs,IL7R
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E4.fcs,D006,E4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E4.fcs,CD22
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E5.fcs,D006,E5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E5.fcs,IL10RA
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E6.fcs,D006,E6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E6.fcs,PD1
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E7.fcs,D006,E7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E7.fcs,CD9
+20240807 Activated PBMC Tiling D006_Experiment_Samples_E8.fcs,D006,E8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_E8.fcs,Mouse IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F1.fcs,D006,F1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F1.fcs,CD38
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F2.fcs,D006,F2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F2.fcs,CCR6
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F3.fcs,D006,F3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F3.fcs,TIM3
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F4.fcs,D006,F4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F4.fcs,CD39
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F5.fcs,D006,F5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F5.fcs,RANKL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F6.fcs,D006,F6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F6.fcs,CD162
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F7.fcs,D006,F7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F7.fcs,SLAMF1
+20240807 Activated PBMC Tiling D006_Experiment_Samples_F8.fcs,D006,F8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_F8.fcs,IL1R3
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G1.fcs,D006,G1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G1.fcs,CD62L
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G2.fcs,D006,G2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G2.fcs,CXCR5
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G3.fcs,D006,G3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G3.fcs,CXCR3
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G4.fcs,D006,G4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G4.fcs,ST2
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G5.fcs,D006,G5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G5.fcs,CD27
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G6.fcs,D006,G6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G6.fcs,CD200R
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G7.fcs,D006,G7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G7.fcs,CD83
+20240807 Activated PBMC Tiling D006_Experiment_Samples_G8.fcs,D006,G8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_G8.fcs,Rat IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H1.fcs,D006,H1,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H1.fcs,CD28
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H2.fcs,D006,H2,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H2.fcs,IL2RB
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H3.fcs,D006,H3,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H3.fcs,CD69
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H4.fcs,D006,H4,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H4.fcs,ICOS
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H5.fcs,D006,H5,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H5.fcs,ITGAE
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H6.fcs,D006,H6,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H6.fcs,CD45Ra
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H7.fcs,D006,H7,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H7.fcs,IL15RA
+20240807 Activated PBMC Tiling D006_Experiment_Samples_H8.fcs,D006,H8,sample,data/raw/D006/20240807 Activated PBMC Tiling D006_Experiment_Samples_H8.fcs,Armenian Hamster Isotype CTRL
+20240807 Activated PBMC Tiling D007_Experiment_Beads_stained.fcs,D007,,beads_stained,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Beads_stained.fcs,
+20240807 Activated PBMC Tiling D007_Experiment_Beads_us.fcs,D007,,beads_unstained,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Beads_us.fcs,
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A1.fcs,D007,A1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A1.fcs,CXCR4
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A2.fcs,D007,A2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A2.fcs,CCR9
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A3.fcs,D007,A3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A3.fcs,TIGIT
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A4.fcs,D007,A4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A4.fcs,CD73
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A5.fcs,D007,A5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A5.fcs,KLRG1
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A6.fcs,D007,A6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A6.fcs,CD25
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A7.fcs,D007,A7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A7.fcs,CD96
+20240807 Activated PBMC Tiling D007_Experiment_Samples_A8.fcs,D007,A8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_A8.fcs,CD40L
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B1.fcs,D007,B1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B1.fcs,CD200
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B2.fcs,D007,B2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B2.fcs,ITGB1
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B3.fcs,D007,B3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B3.fcs,GPR183
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B4.fcs,D007,B4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B4.fcs,CD45RO
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B5.fcs,D007,B5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B5.fcs,LAG3
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B6.fcs,D007,B6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B6.fcs,SLAMF6
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B7.fcs,D007,B7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B7.fcs,CXCR6
+20240807 Activated PBMC Tiling D007_Experiment_Samples_B8.fcs,D007,B8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_B8.fcs,Mouse IgG1 isotype CTRL
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C1.fcs,D007,C1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C1.fcs,IL12RB2
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C2.fcs,D007,C2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C2.fcs,TNFRSF4
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C3.fcs,D007,C3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C3.fcs,CD7
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C4.fcs,D007,C4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C4.fcs,BTLA
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C5.fcs,D007,C5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C5.fcs,CD30L
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C6.fcs,D007,C6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C6.fcs,IL18R1
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C7.fcs,D007,C7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C7.fcs,CD294
+20240807 Activated PBMC Tiling D007_Experiment_Samples_C8.fcs,D007,C8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_C8.fcs,Rat IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D1.fcs,D007,D1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D1.fcs,TNFSF4
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D2.fcs,D007,D2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D2.fcs,IL2RG
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D3.fcs,D007,D3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D3.fcs,IL21R
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D4.fcs,D007,D4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D4.fcs,CD53
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D5.fcs,D007,D5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D5.fcs,CTLA4
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D6.fcs,D007,D6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D6.fcs,CRTAM
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D7.fcs,D007,D7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D7.fcs,FASL
+20240807 Activated PBMC Tiling D007_Experiment_Samples_D8.fcs,D007,D8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_D8.fcs,Mouse IgG2a isotype CTRL
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E1.fcs,D007,E1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E1.fcs,CD44
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E2.fcs,D007,E2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E2.fcs,IL10RB
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E3.fcs,D007,E3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E3.fcs,IL7R
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E4.fcs,D007,E4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E4.fcs,CD22
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E5.fcs,D007,E5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E5.fcs,IL10RA
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E6.fcs,D007,E6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E6.fcs,PD1
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E7.fcs,D007,E7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E7.fcs,CD9
+20240807 Activated PBMC Tiling D007_Experiment_Samples_E8.fcs,D007,E8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_E8.fcs,Mouse IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F1.fcs,D007,F1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F1.fcs,CD38
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F2.fcs,D007,F2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F2.fcs,CCR6
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F3.fcs,D007,F3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F3.fcs,TIM3
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F4.fcs,D007,F4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F4.fcs,CD39
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F5.fcs,D007,F5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F5.fcs,RANKL
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F6.fcs,D007,F6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F6.fcs,CD162
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F7.fcs,D007,F7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F7.fcs,SLAMF1
+20240807 Activated PBMC Tiling D007_Experiment_Samples_F8.fcs,D007,F8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_F8.fcs,IL1R3
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G1.fcs,D007,G1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G1.fcs,CD62L
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G2.fcs,D007,G2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G2.fcs,CXCR5
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G3.fcs,D007,G3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G3.fcs,CXCR3
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G4.fcs,D007,G4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G4.fcs,ST2
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G5.fcs,D007,G5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G5.fcs,CD27
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G6.fcs,D007,G6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G6.fcs,CD200R
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G7.fcs,D007,G7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G7.fcs,CD83
+20240807 Activated PBMC Tiling D007_Experiment_Samples_G8.fcs,D007,G8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_G8.fcs,Rat IgG2b Isotype CTRL
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H1.fcs,D007,H1,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H1.fcs,CD28
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H2.fcs,D007,H2,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H2.fcs,IL2RB
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H3.fcs,D007,H3,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H3.fcs,CD69
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H4.fcs,D007,H4,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H4.fcs,ICOS
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H5.fcs,D007,H5,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H5.fcs,ITGAE
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H6.fcs,D007,H6,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H6.fcs,CD45Ra
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H7.fcs,D007,H7,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H7.fcs,IL15RA
+20240807 Activated PBMC Tiling D007_Experiment_Samples_H8.fcs,D007,H8,sample,data/raw/D007/20240807 Activated PBMC Tiling D007_Experiment_Samples_H8.fcs,Armenian Hamster Isotype CTRL
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_A1.fcs,Treg,A1,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_A1.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_A2.fcs,Treg,A2,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_A2.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_A3.fcs,Treg,A3,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_A3.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_A4.fcs,Treg,A4,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_A4.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_B1.fcs,Treg,B1,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_B1.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_B2.fcs,Treg,B2,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_B2.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_B3.fcs,Treg,B3,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_B3.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_B4.fcs,Treg,B4,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_B4.fcs,IFN-y/IL-17A ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_C1.fcs,Treg,C1,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_C1.fcs,Treg FOXP3 ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_C2.fcs,Treg,C2,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_C2.fcs,Treg FOXP3 ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_C3.fcs,Treg,C3,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_C3.fcs,Treg FOXP3 ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_C4.fcs,Treg,C4,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_C4.fcs,Treg FOXP3 ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_D1.fcs,Treg,D1,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_D1.fcs,Treg FOXP3 ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_D2.fcs,Treg,D2,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_D2.fcs,Treg FOXP3 ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_D3.fcs,Treg,D3,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_D3.fcs,Treg FOXP3 ICS
+20240807 Activated PBMC TREG Tiling_Experiment_Samples_D4.fcs,Treg,D4,sample,data/raw/Treg/20240807 Activated PBMC TREG Tiling_Experiment_Samples_D4.fcs,Treg FOXP3 ICS
